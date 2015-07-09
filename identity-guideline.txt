@@ -60,13 +60,13 @@ different from your competitors?
 Brand Traits
 ------------
 
-- Fun [but not...]
-- Approachable [but not...]
-- Futuristic [but not...]
-- Curious [but not...]
-- Bold [but not...]
-- Adventurous/Pioneering [but not...]
-- Smart [but not...]
+- Fun but not Childish
+- Approachable but not Bland
+- Futuristic but still Accessible
+- Curious but not Distracted
+- Bold but not Domineering
+- Adventurous but not Risky 
+- Smart but not Academic
 
 ***************************************************************************************
 
@@ -125,3 +125,17 @@ support the design persona, and create a memorable experience.
 
 ***************************************************************************************
 
+------------
+Brand Colors
+------------
+
+$brand_color-blueGrey1: #ECEFF1;
+$brand_color-blueGrey0: #CFD8DC;
+$brand_color-highlight0: orange;
+$brand_color-teal: #48B6AC;
+$brand_color-ltblue: #41a7e1;
+$brand_color-dkblue: #1b3644;
+$brand_color-grey: #424242;
+$brand_color-black: #111;
+
+***************************************************************************************
